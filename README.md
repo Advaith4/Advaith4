@@ -1,12 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7c3aed,100:00d4ff&height=240&section=header&text=ADVAITH%20G&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Systems%20Engineer%20%E2%80%A2%20LLM%20Architecture%20%E2%80%A2%20Full-Stack&descAlignY=75&descSize=16&descColor=00d4ff" />
+<!-- Animated SVG Hero (gradient + moving blobs + bold text) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" preserveAspectRatio="xMidYMid meet" width="100%" height="300">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#00d4ff;#ff7ab6;#7c3aed" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00d4ff">
+        <animate attributeName="stop-color" values="#00d4ff;#ff7ab6;#7c3aed;#00d4ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ff7ab6">
+        <animate attributeName="stop-color" values="#ff7ab6;#7c3aed;#00d4ff;#ff7ab6" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="f" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+    </filter>
+  </defs>
+  <rect x="20" y="20" rx="60" ry="60" width="1160" height="280" fill="url(#g1)"/>
+  <g filter="url(#f)" opacity="0.75">
+    <circle cx="260" cy="160" r="120" fill="#ffffff" opacity="0.06">
+      <animate attributeName="cx" dur="10s" values="220;980;220" repeatCount="indefinite"/>
+      <animate attributeName="cy" dur="8s" values="160;80;220;160" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="160" r="140" fill="#ffffff" opacity="0.045">
+      <animate attributeName="cx" dur="12s" values="1000;200;1000" repeatCount="indefinite"/>
+      <animate attributeName="cy" dur="9s" values="120;220;120" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="50%" y="40%" text-anchor="middle" font-size="96" font-family="Poppins, sans-serif" fill="#FFFFFF" fill-opacity="0.95" font-weight="800">ADVAITH G</text>
+  <text x="50%" y="62%" text-anchor="middle" font-size="20" font-family="Inter, sans-serif" fill="#FFFFFF" fill-opacity="0.92">AI Systems Engineer • LLM Architecture • Full-Stack</text>
+</svg>
 
 </div>
 
 <div align="center">
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;MERN+%7C+FastAPI+%7C+PyTorch)
+<!-- Lively typing subtitle -->
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;MERN+%7C+FastAPI+%7C+PyTorch;Designing+For+Scale)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,11 +46,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=google-chrome&logoColor=00d4ff)](https://advaith-g.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaith-g-771800300/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Advaith4)
-[![Contact](https://img.shields.io/badge/Contact-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:advaith.g.dev@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Advaith4&style=flat-square&color=7c3aed&label=PROFILE%20VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=00d4ff)](https://advaith-g.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaith-g-771800300/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advaith4)
+[![Contact](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advaith.g.dev@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Advaith4&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
