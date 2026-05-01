@@ -1,24 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a0a2e,60:00d4ff,100:7c3aed&height=300&section=header&text=ADVAITH%20G&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20LLM%20Architecture%20%7C%20Full-Stack&descAlignY=75&descSize=18&descColor=00d4ff" />
+<!-- Animated Background -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7c3aed,100:00d4ff&height=150&section=header&text=&animation=fadeIn"/>
+
+<!-- Main Title with Multiple Animations -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=60&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=⚡+ADVAITH+G+⚡;🤖+AI+Systems+Engineer;🧠+LLM+Architect;🚀+Full-Stack+Builder" alt="Typing animation"/>
+</h1>
+
+<!-- Animated Subtitle with Emojis -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&pause=3000&color=7C3AED&center=true&vCenter=true&width=900&lines=🤖+Transforming+Ideas+into+Production-Ready+AI+Systems;🧠+Multi-Agent+Architecture+%7C+LLM+Fine-Tuning+%7C+RAG;🚀+From+Research+to+Enterprise+Deployment;⚙️+Building+Tomorrow's+AI+Solutions+Today" alt="Animated description"/>
+</p>
+
+<!-- Animated Wave Section -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00d4ff,50:7c3aed,100:0d1117&height=100&section=custom&animation=fadeInUp"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Solutions;Multi-Agent+Systems+%7C+LLM+Fine-Tuning+%7C+RAG;From+Concept+to+Enterprise+Deployment;MERN+%7C+FastAPI+%7C+PyTorch+%7C+CrewAI)](https://git.io/typing-svg)
+<!-- Social Links with Enhanced Styling -->
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-0d1117?style=for-the-badge&logo=globe&logoColor=00d4ff&labelColor=1a1a2e)](https://advaith-g.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaith-g-771800300/)
+[![GitHub](https://img.shields.io/badge/👨‍💻_GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Advaith4)
+[![Email](https://img.shields.io/badge/📧_Contact_Me-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=globe&logoColor=00d4ff&label=&labelColor=1a1a2e&color=16213e)](https://advaith-g.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaith-g-771800300/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Advaith4)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](#)
-![Views](https://komarev.com/ghpvc/?username=Advaith4&style=flat-square&color=7c3aed&label=PROFILE%20VIEWS)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Advaith4&style=for-the-badge&color=7c3aed&label=Profile+Views)
 
 </div>
 
