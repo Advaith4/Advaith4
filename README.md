@@ -149,11 +149,11 @@ Achievements:
 <td width="50%">
 
 ### 🌿 SHANVYA
-**Healthcare AI Assistant**
+**AI-Powered Postpartum Depression Detection**
 
-- AI-enabled support for health workflows
-- Built with FastAPI and scalable web design
-- Designed for patient-centered interaction
+- Identifies early signs of PPD in new mothers through assessment-based analysis
+- Provides personalized counseling support based on predicted results
+- Built as a practical full-stack AI product with FastAPI backend and static web frontend
 
 </td>
 <td width="50%">
@@ -187,11 +187,9 @@ LLM Fine-Tuning (Mistral-7B) + Doctor Recommendation
 ### 🤖 JOBIFYAI
 **AI-Powered Career Assistant**
 
-Multi-Agent system using CrewAI + Groq + LLMs
-
-- Resume analysis & job matching automation
-- 70% reduction in manual effort
-- Personalized interview prep
+- Helps candidates analyze resumes, find relevant jobs, improve resume quality, and practice interviews with adaptive AI coaching
+- Combines a FastAPI backend, static web frontend, and SQLModel persistence
+- Built as a practical full-stack AI product with REST APIs, authenticated user flows, resume intelligence, job tracking, and interview preparation
 
 [![GitHub](https://img.shields.io/badge/View%20Repository-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Advaith4/JOBIFY)
 
