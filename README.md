@@ -126,39 +126,7 @@ advaith = {
 
 <hr/>
 
-## 💼 Experience
-
-### 🏭 Larsen & Toubro
-Information Systems Associate Intern
-
-- Worked at Kudankulam Nuclear Power Plant
-- Active Directory Administration
-- Windows Server Management
-- Enterprise Information Systems
-- Network Infrastructure Configuration
-
-### 🤖 NxtLogic
-Machine Learning Intern
-
-- Student Dropout Analysis
-- Explainable AI
-- Data Analysis using Python
-- Machine Learning workflows
-
-## 🎯 Leadership
-
-### Vice President — Research & Innovation Club
-- Organized AutoCAD event with 600+ participants
-- Conducted multiple technical events
-
-### Joint Secretary — CSI
-- Organized technical workshops
-- Student engagement initiatives
-
-### Executive Member — ACE
-- Organized Code-A-Thon with 100+ teams
-
-## 📚 Research
+##  Research
 
 ### IEEE Publication
 Published at International Conference, NIT Goa
@@ -180,16 +148,12 @@ Achievements:
 <tr>
 <td width="50%">
 
-### 🤖 JOBIFYAI
-**AI-Powered Career Assistant**
+### 🌿 SHANVYA
+**Healthcare AI Assistant**
 
-Multi-Agent system using CrewAI + Groq + LLMs
-
-- Resume analysis & job matching automation
-- 70% reduction in manual effort
-- Personalized interview prep
-
-[![GitHub](https://img.shields.io/badge/View%20Repository-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Advaith4/JOBIFY)
+- AI-enabled support for health workflows
+- Built with FastAPI and scalable web design
+- Designed for patient-centered interaction
 
 </td>
 <td width="50%">
@@ -210,28 +174,26 @@ LLM Fine-Tuning (Mistral-7B) + Doctor Recommendation
 <tr>
 <td width="50%">
 
-### 💙 Postpartum Depression Detection
-**ML + Chatbot Assistance**
+### 🕵️‍♂️ FORENSIAI
+**Forensic AI Intelligence**
 
-Multi-model ML • IEEE Published • Copyright Filed
-
-- Early depression prediction via ML models
-- Context-aware chatbot support
-- 2nd Prize • IEEE NIT GOA
+- LLM-assisted forensic analytics workflows
+- Explainable AI insights for investigations
+- Modular architecture for rapid model iteration
 
 </td>
 <td width="50%">
 
-### 📊 DevTrack
-**Full-Stack MERN Application**
+### 🤖 JOBIFYAI
+**AI-Powered Career Assistant**
 
-JWT Auth • Role-Based Access • REST API
+Multi-Agent system using CrewAI + Groq + LLMs
 
-- JWT-based authentication system
-- Role-based access control
-- Responsive React UI with API integration
+- Resume analysis & job matching automation
+- 70% reduction in manual effort
+- Personalized interview prep
 
-[![GitHub](https://img.shields.io/badge/View%20Repository-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Advaith4/Devtrack)
+[![GitHub](https://img.shields.io/badge/View%20Repository-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Advaith4/JOBIFY)
 
 </td>
 </tr>
