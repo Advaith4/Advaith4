@@ -177,9 +177,11 @@ LLM Fine-Tuning (Mistral-7B) + Doctor Recommendation
 ### 🕵️‍♂️ FORENSIAI
 **Forensic AI Intelligence**
 
-- LLM-assisted forensic analytics workflows
-- Explainable AI insights for investigations
-- Modular architecture for rapid model iteration
+An end-to-end forensic intelligence platform combining multi-model AI extraction, multi-agent orchestration, and a web dashboard to help investigators triage evidence.
+
+- Triage autopsy reports, CCTV footage, GPS/mobile metadata, and other digital evidence
+- Generate structured investigation reports with deterministic risk scoring
+- Built for forensic workflows with precise evidence extraction and analyst-facing insights
 
 </td>
 <td width="50%">
