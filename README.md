@@ -30,7 +30,7 @@
     </circle>
   </g>
   <text x="50%" y="40%" text-anchor="middle" font-size="96" font-family="Poppins, sans-serif" fill="#FFFFFF" fill-opacity="0.95" font-weight="800">ADVAITH G</text>
-  <text x="50%" y="62%" text-anchor="middle" font-size="20" font-family="Inter, sans-serif" fill="#FFFFFF" fill-opacity="0.92">AI Systems Engineer • LLM Architecture • Full-Stack</text>
+  <text x="50%" y="62%" text-anchor="middle" font-size="20" font-family="Inter, sans-serif" fill="#FFFFFF" fill-opacity="0.92">AI Engineer • Multi-Agent Systems • LLM Fine-Tuning • Full-Stack Development</text>
 </svg>
 
 </div>
@@ -38,7 +38,7 @@
 <div align="center">
 
 <!-- Lively typing subtitle -->
-[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;MERN+%7C+FastAPI+%7C+PyTorch;Designing+For+Scale)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=820&lines=Building+Production-Grade+AI+Systems;LLM+Fine-Tuning+%7C+Multi-Agent+Systems;Full-Stack+AI+%7C+FastAPI+%7C+PyTorch;Designing+For+Scale)](https://git.io/typing-svg)
 
 </div>
 
@@ -62,7 +62,7 @@
 advaith = {
     "name"      : "Advaith G",
     "location"  : "Coimbatore, India 🇮🇳",
-    "focus"     : ["LLM Fine-Tuning", "Multi-Agent Systems", "Full-Stack AI Apps"],
+    "focus"     : ["LLM Fine-Tuning", "Prompt Engineering", "Explainable AI", "Multi-Agent Systems", "Full-Stack AI Apps"],
     "currently" : "Building AI that solves real problems",
     "mantra"    : "Turn ideas into working products 🚀"
 }
@@ -81,14 +81,21 @@ advaith = {
 ![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=flat-square&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-00D4FF?style=flat-square&logo=graphql&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-FF4500?style=flat-square&logo=lightning&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00BFFF?style=flat-square&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7c3aed?style=flat-square&logo=openai&logoColor=white)
 
 ### 🌐 Full Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -108,14 +115,60 @@ advaith = {
 
 | Achievement | Detail |
 |:---:|:---|
-| 🥇 **1st Prize — Hackathon** | 24-hour hackathon by L&T EDUTECH |
-| 🥈 **2nd Prize — Hackathon** | 20-hour hackathon by BITS PILANI HYDERABAD |
+| 🥇 **1st Prize — L&T Edutech Hackathon** | 24-hour AI solution build at L&T EDUTECH |
+| 🥇 **1st Prize — HackHere & StartupTN** | Dual hackathon wins in AI innovation |
+| 🥈 **2nd Prize — BITS Pilani Hyderabad Hackathon** | 20-hour AI solution build |
 | 📰 **IEEE Published Paper** | International Conference at NIT GOA |
 | ©️ **Copyright Filed** | Postpartum Depression Detection System |
-| 🥈 **2nd Prize — Paper Presentation** | Rathinam Tech Fest |
 | 🏭 **L&T Internship** | Kudankulam Nuclear Power Plant |
 
 </div>
+
+<hr/>
+
+## 💼 Experience
+
+### 🏭 Larsen & Toubro
+Information Systems Associate Intern
+
+- Worked at Kudankulam Nuclear Power Plant
+- Active Directory Administration
+- Windows Server Management
+- Enterprise Information Systems
+- Network Infrastructure Configuration
+
+### 🤖 NxtLogic
+Machine Learning Intern
+
+- Student Dropout Analysis
+- Explainable AI
+- Data Analysis using Python
+- Machine Learning workflows
+
+## 🎯 Leadership
+
+### Vice President — Research & Innovation Club
+- Organized AutoCAD event with 600+ participants
+- Conducted multiple technical events
+
+### Joint Secretary — CSI
+- Organized technical workshops
+- Student engagement initiatives
+
+### Executive Member — ACE
+- Organized Code-A-Thon with 100+ teams
+
+## 📚 Research
+
+### IEEE Publication
+Published at International Conference, NIT Goa
+
+Research Area:
+Machine Learning for Postpartum Depression Detection
+
+Achievements:
+- IEEE Publication
+- Copyright Filed
 
 <hr/>
 
@@ -127,7 +180,7 @@ advaith = {
 <tr>
 <td width="50%">
 
-### 🤖 JOBIFY
+### 🤖 JOBIFYAI
 **AI-Powered Career Assistant**
 
 Multi-Agent system using CrewAI + Groq + LLMs
